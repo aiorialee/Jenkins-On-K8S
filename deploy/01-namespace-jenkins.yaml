@@ -1,0 +1,6 @@
+# Maintainer: JingLi <lijingakaaioria@gmail.com>
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: jing-jenkins
